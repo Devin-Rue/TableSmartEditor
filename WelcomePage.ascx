@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="WelcomePage.ascx.cs" Inherits="WelcomePage" %>
+<img id="WelcomeImg" src="public/WelcomePage/<%=System.Configuration.ConfigurationManager.AppSettings["DefaultWelcomeImage"] %>" alt=""/>

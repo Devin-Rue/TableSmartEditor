@@ -1,0 +1,167 @@
+﻿/*FOGLIO DI STILE PER IE8*/
+
+/*.ui-dialog .ui-widget .ui-widget-content .ui-corner-all .ui-draggable .ui-resizable .ui-dialog-buttons
+{width: 1024px !important;
+    }*/
+/*.ui-dialog .ui-dialog-content
+{height:500px !important;
+ width: 1000px !important;
+    }*/
+
+
+/* Aggiornamento 12/04/2013*/
+.icons-tab-images {
+    border: none;
+}
+
+#home {
+    float: none!important;
+    margin-top: 5px;
+}
+.ui-accordion ul li {
+    margin-left: -1px;
+}
+.LoginInput {
+    background: none;
+}
+.placeholder {
+    background-color: transparent;
+    color: #666666;
+    white-space: nowrap;
+    left: -9px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+    margin: 9px;
+}
+/* Software Semplice*/
+.TabScadenze {
+    margin-left: 10px;
+}
+.LoginInput {
+    margin: 30px 0 0 0;
+}
+
+#DetailTable {
+    background: none !important;
+    border-top: 1px solid #EEEEEE !important;
+}
+#DetailTable #TabellaDati {
+    margin-left:0px;
+}
+#DetailTable .link_modifica, #DetailTable .link_elimina, #DetailTable .link_custom, #DetailTable #Scegli {
+    margin-top: -1px !important;
+    float:right !important;
+}
+/* FINE Aggiornamento 12/04/2013*/
+
+
+.link_modifica, .link_elimina, .link_custom, #Scegli {
+    float: right;
+    padding-top: 15px;
+}
+
+.ui-button-icon-only .ui-button-text, .ui-button-icons-only .ui-button-text {
+    padding: 1px;
+}
+
+#subfield_tabs .ui-button-icon-only {
+    height: 20px !important;
+    width: 20px !important;
+}
+
+#subfield_tabs .ui-tabs-panel {
+    border-width: 1px;
+}
+
+#RecordTable {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+/*
+.ui-tabs .ui-tabs-nav li {
+    margin-top: -43px !important;
+}*/
+
+.ui-button-text input {
+    margin-top: -5px;
+    padding-bottom: 10px;
+}
+
+.cerca_button, .mostratutto_button, .salva_button, .annulla_button, .elimina_button, .login_button, .upload_button, .chiudi_button {
+    margin-left: 5px;
+}
+
+.link_modifica, .link_elimina, .link_custom {
+    margin-left: 20px;
+    margin-top: -12px;
+}
+
+#PanelAddNewButton {
+    margin-top: 10px;
+}
+
+#PanelAddNewButton, #Ricerca {
+    display: inline-block;
+}
+
+#MainMenu {
+    display: inline-block;
+    position: relative;
+}
+
+#TabellaDati {
+    margin-top: 0px;
+    float: left;
+    display: inline-block;
+    position: absolute;
+}
+#PanelAddNewButton {
+    margin-top:0px;
+}
+#footer {
+    display: none;
+    height: 45px;
+    width: 210px;
+    margin-top: 10px;
+}
+
+#calendar {
+    width: 82% !important;
+    margin: 7px 0px 0px 0px !important;
+    position: absolute;
+}
+
+.fc-header-title {
+    float: left;
+    width: 250px !important;
+}
+
+#legend {
+    width: 500px !important;
+}
+
+.login_table {
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0
+}
+
+.ui-tabs-panel ul li {
+    list-style: none;
+    padding-bottom: 3px;
+    margin-left: -40px;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a {
+    cursor: text;
+    padding-bottom: 7px;
+}
+
+.link_modifica, .link_elimina, .link_custom, #Scegli {
+    font-size: 0.7em;
+    font-weight: bold;
+    width: 80px;
+    float: left;
+}

@@ -1,0 +1,30 @@
+﻿.logGuiders
+{
+    left: auto !important;
+    margin-top: 20px;
+    right: 200px !important;
+}
+.guiders_description ul
+{
+    margin-top: -8px;
+}
+.guiders_description ul li
+{
+    margin: 4px auto;
+}
+.altoDx
+{
+    left: 670px !important;
+    top: 40px !important;
+}
+.margintop
+{
+    margin-top: 5px;
+}.margintop-input
+{
+    margin-top: 15px;
+}
+.ScadenzarioScadenze
+{
+     left: 745px !important;
+}

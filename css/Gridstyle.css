@@ -1,0 +1,205 @@
+﻿#GridAddRow {
+    margin-right: 40px;
+}
+
+.GridFunctionButtons {
+    margin-right: 15px;
+}
+
+    .GridFunctionButtons:hover, #GridAddRow:hover {
+        cursor: pointer;
+    }
+
+/* GRIGLIA
+   ***********************************************************/
+#grid .ui-button-icon-only .ui-button-text, #grid .ui-button-icons-only .ui-button-text {
+    padding: 0;
+}
+
+.qtip {
+    font-family: Arial,Helvetica,sans-serif !important;
+}
+
+.ui-tooltip, .qtip {
+    position: absolute;
+    left: -10000em;
+    top: -10000em;
+    max-width: 700px; /* Change this? */
+    min-width: 50px; /* ...and this! */
+}
+
+.dragDrop {
+    opacity: 0.4;
+}
+
+.dragHandle {
+    cursor: n-resize;
+}
+
+#tabs-0 {
+    padding: 1em 0 0 0;
+}
+
+.popup {
+    background: red;
+}
+
+    .popup:hover {
+        background: green;
+    }
+
+.total2 input {
+    /*font-weight:bold;*/
+    text-align: right;
+}
+
+#gridTotals input {
+    margin: -1px;
+    font-size: 0.9em;
+    padding: 0;
+}
+
+#grid th {
+    padding: 0px 4px 0px 4px;
+}
+
+#totalsGrid {
+    border: 1px solid #EBEBEB;
+    margin-top: 5px;
+    margin-left: 75%;
+}
+
+#RecordTable {
+    font-size: 0.9em;
+}
+
+.ui-button-icon-only .ui-button-text, .ui-button-icons-only .ui-button-text {
+    margin: 0 0 0 2px;
+    padding: 0.1em;
+}
+
+.total,.valunit {
+    width: 70px;
+}
+
+.total input {
+text-align: right;
+background-color:#EBEBEB;
+}
+
+.valunit input {
+text-align: right;
+}
+
+.total2 {
+    width: 22%;
+}
+
+.counter {
+    width: 2px;
+}
+
+    .counter input {
+        text-align: center;
+        width: 100%;
+    }
+
+.verylittle {
+    width: 1%;
+}
+
+.verylittle input {
+        width: 48px !important;
+        min-width: 48px;
+}
+
+.little {
+    width: 68px;
+    min-width: 68px;
+}
+
+.little input {
+        width: 30px !important;
+        margin-right: 4px !important;
+}
+
+.littleCenter span {
+    text-align: center;
+}
+
+.medium {
+    width: 151px;
+    min-width: 151px;
+}
+
+.medium input {
+        width: 94px;
+        margin-right: 4px !important;
+}
+.medium1 {
+    width: 90px;
+    min-width: 90px;
+}
+
+.medium1 input {
+        width: 70px;
+        margin-right: 4px !important;
+}
+.medium2 {
+    width: 225px;
+}
+
+.medium2 input {
+        width: 225px;
+        margin-right: 4px !important;
+}
+
+.large input {
+    margin-right: 4px !important;
+}
+/*
+.large input
+{
+    width: 100% !important;
+    margin-right: 4px !important;
+}*/
+.headerGrid {
+    background: #EBEBEB;
+    border: none;
+    color: #444;
+    font-size: 0.9em;
+    text-align: left;
+}
+
+#grid input, #totalsGrid input {
+    margin: -1px;
+    font-size: 0.9em;
+    padding: 0;
+}
+
+    #grid input:hover {
+        background: #EBEBEB;
+    }
+
+    #grid input:focus {
+        background: #FFF8D5;
+    }
+
+        #grid input:focus:hover {
+            background: #FFF8D5;
+        }
+
+#grid {
+    border: 1px solid #EBEBEB;
+}
+
+    #grid select {
+        font-size: 0.8em;
+        width: 71px;
+    }
+
+    #grid a {
+        width: 20px;
+    }
+/* FINE GRIGLIA
+   ***********************************************************/

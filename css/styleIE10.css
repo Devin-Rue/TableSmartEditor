@@ -1,0 +1,59 @@
+﻿#DetailTableSection #PanelSingolaTabella
+{
+    overflow: hidden;
+    margin: 0 10px 20px 230px !important;
+}
+#DetailTable #DetailTableSection #PanelSingolaTabella
+{
+    margin: 0 10px 20px 10px !important;
+}
+.icons-tab-images
+{
+    border: none;
+}
+#home
+{
+    margin-top: 4px;
+    float: none !important;
+}
+.LoginInput {
+    background: none;
+}
+.placeholder {
+    background-color: transparent;
+    color: #666666;
+    white-space: nowrap;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+    margin: 9px;
+}
+
+/* Aggiornamento 12/04/2013*/
+.icons-tab-images
+{
+    border: none;
+}
+.ui-accordion ul li {
+    margin-left: -2px;
+}
+/* Software Semplice*/
+.TabScadenze
+{
+    margin-left: 10px;
+    }
+
+/* FINE Aggiornamento 12/04/2013*/
+/* Aggiornamento 17/05/2013*/
+#TabellaDati
+{
+    margin-top:10px;
+    }/* FINE Aggiornamento 17/05/2013*/
+	
+	    /* Aggiornamento 07/06/2013*/
+    .PageDescription 
+    {
+        margin-left:0px!important;
+        } /* fine Aggiornamento 07/06/2013*/

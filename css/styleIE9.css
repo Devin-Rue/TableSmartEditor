@@ -1,0 +1,49 @@
+﻿/* Ultimo Aggiornamento 16/04/2013*/
+#DetailTableSection #PanelSingolaTabella
+{
+    overflow: hidden;
+    margin: 0 10px 20px 230px !important;
+}
+#DetailTable #DetailTableSection #PanelSingolaTabella
+{
+    margin: 0 10px 20px 10px !important;
+}
+.icons-tab-images
+{
+    border: none;
+}
+#home
+{
+    margin-top: 4px;
+    float: none !important;
+}
+
+.icons-tab-images
+{
+    border: none;
+}
+.ui-accordion ul li {
+    margin-left: -2px;
+}
+#top a span, #top .ui-icon, #top .ui-icon-s {
+    margin: -3px 0.2em 0 0.2em;
+}
+.LoginInput {
+    background: none;
+}
+.placeholder {
+    background-color: transparent;
+    color: #666666;
+    white-space: nowrap;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+    margin: 9px;
+}
+/* Software Semplice*/
+.TabScadenze
+{
+    margin-left: 10px;
+    }

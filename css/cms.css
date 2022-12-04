@@ -1,0 +1,9 @@
+/* https://stackoverflow.com/a/20327676 
+   Implemented by Devin so that you can click anywhere in a button rather than only its text */
+#SaveBtn, #CancBtn, #DelBtn {
+	display: inline-block;     
+	position: relative;    
+	z-index: 1;     
+	padding: .4em .8em .4em 2.1em;     
+	margin: -.4em -.8em -.4em -2.1em;
+}

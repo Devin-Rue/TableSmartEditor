@@ -1,0 +1,238 @@
+﻿#form1{
+display:table;
+width:100%;
+}
+#DetailTableSection
+{
+    display:table;
+	width:100%;
+}
+#MainMenu
+{
+    width: 210px;
+    float:left;
+    padding-right:10px;
+}
+#SelezionaTutti
+    {
+    	margin-right:5px;
+    	margin-left:5px;
+    	padding:0;
+    	height:16px;
+    	}
+    		#ListPunti
+    {margin:0;
+     padding:0;
+     
+    	}
+    	#ListPunti input 
+    {
+    	margin-right:5px;
+    	padding:0;
+    	height:20px;
+    	}
+    	
+  #ListPunti td 
+    {
+    	width:150px;
+    	font-size:13px;
+    	}
+    div#categorie,#PanelSalvataggioEffettuato,#PanelResetEffettuato
+    {
+    	border:1px solid #cccccc;
+    	background-color:#F6F6F6;
+    	padding:5px 10px;
+   
+    	border-radius:5px;
+    	margin-top:10px;
+    	position:relative;
+    	}
+    	.back_button .ui-button-text, .preview_newsletter .ui-button-text
+    	{
+    		padding:00.33em 0.5em 0.3em 1.9em!important;
+    		}
+  div#categorie ul 
+    {
+    	list-style-type:square;
+    	
+    	}   
+    	div.check-news span.arrow
+    	{
+    			background-image:url(../images/arrow.png);
+    		background-repeat:no-repeat;
+    		width:40px;
+    		height:40px;
+    		position:absolute;
+    		left:-28px;
+    		top:100px;
+    		background-position:0px 0px;}
+    	div.primopiano span.arrow
+    	{
+    		
+    		top:220px;}
+    		
+    	div.newsnotaio
+    	{
+    		
+    		top:370px!important;
+    
+    		}
+    	div.newsnotaio span.arrow
+ 
+    	{
+    		
+    		top:20px!important;
+    
+    		}	
+    	div.check-news 
+    	{
+    		display:none;
+    		margin-right:10px;
+    	
+    		position:absolute;
+    		z-index:300px;
+    		left:200px;
+    		top:10px;
+    			border:1px solid #cccccc;
+    	background-color:#fff;
+    	padding:5px 10px;
+   
+    	border-radius:5px;
+    
+    		}
+    		div.check-news p
+    	{
+    		font-weight:bold;
+    		margin:2px 0;
+    		
+    
+    		}
+.ui-button-text-icon-primary .ui-button-text, .ui-button-text-icons .ui-button-text {
+    padding: 0.33em 0.8em 1.55em 1.8em;
+}
+.annulla_button .ui-button-text
+{
+    padding-bottom:0.2em;
+    }
+    .annulla_button 
+{
+    float:left;
+    }
+.CheckBoxList td
+{
+	vertical-align:top;
+	
+	
+	}
+.CheckBoxList input
+{
+	height:10px!important;
+	
+	}
+.CheckBoxList label
+{
+	font-size:12px;
+	margin-left:5px;
+	
+	}
+.taglia_button,.chiudi_button{
+font-size: 0.8em;}	
+#NessunElemento 
+{
+
+
+		padding:10px 20px;
+	background-color: #FE7878;
+	border: 2px solid #FF0000;
+	border-radius:4px;
+	color: #A00101;
+	margin-left:200px;
+	}
+#SalvataggioRiuscito
+{
+		background-color:#FCF8DE; 	
+	/*border:2px solid #76B31F; 	
+	border-radius:4px;
+	*/color: #000021;
+	padding:10px 30px;
+	margin:10px auto;
+	display: block;
+	border: 1px solid #F9DD34;
+    color: #363636;
+	}
+/*Upload file*/	
+.PanelUploadFile, #TagliaImmagine {
+    background-color: #FBFBFB;
+    border: 1px solid #DDDDDD;
+    border-radius: 2px 2px 2px 2px;
+    font-family: Arial,Tahoma,Arial,sans-serif;
+    margin: 0;
+    overflow: hidden;
+    padding: 10px 20px;
+}
+
+
+.PanelUploadFile p {
+    font-size: 12px;
+    overflow: hidden;
+}
+
+p.button a
+{
+    float: left;
+    padding-right: 10px;
+}
+p.button a span
+{
+float: left; margin-right: .2em;
+}
+
+p.button { /*font-size: 0.8em; */overflow:hidden; float:left;width:500px;}
+.size 
+{
+    font-size:12px;
+           float:left;
+           width:405px;
+    margin:0px 0 0 0;
+    }
+    #AP,#AP2 
+    {
+        float: left;}
+   .SizeCrop,.DescrizioneRidimesiona
+   {
+       clear:both;
+       }
+       .DescrizioneRidimesiona p
+       {
+           font-size:12px;
+           
+           }
+.size label,.SizeCrop label
+{  font-size:12px;
+           
+    float:left;
+    margin-top:5px;
+    margin-right:5px;
+    }
+   #imgContainer 
+   {
+       border: 1px solid #DDDDDD;
+       clear:both;
+       }
+       #AttivaProporzioni 
+       {float:left;
+        font-size:11px;
+           }
+          #wcrop,#hcrop
+          {
+             /* background-color:#F6F6F6;border-color:#F6F6F6;
+              padding-left:0px!important;*/
+              }
+              .guida
+              {
+                
+                  position:absolute;
+                  left:0;
+                  top:0;
+                  z-index:9000;
+                  }
